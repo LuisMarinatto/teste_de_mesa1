@@ -8,6 +8,6 @@ using System;
     {
         v[b] = b + a;
         b = b + 2;
-        Console.WriteLine($"resultado: {b}");
+        Console.WriteLine($"o resultado: {b}");
     }
 }
