@@ -10,3 +10,4 @@
         Console.WriteLine($"o resultado é: {a}");
     }
 }
+//ex02
